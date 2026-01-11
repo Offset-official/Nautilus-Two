@@ -14,7 +14,7 @@ AUV MARK II uses [ArduSub](http://www.ardusub.com/) as the flight controller and
 
 ![AUV MARK II Gazebo](images/nautilus_one.png)
 
-AUV MARK I runs in [Gazebo Garden](https://gazebosim.org/docs/garden/getstarted/) using the standard buoyancy, 
+AUV MARK II runs in [Gazebo Garden](https://gazebosim.org/docs/garden/getstarted/) using the standard buoyancy, 
 hydrodynamics and thruster
 plugins. The connection between ArduSub and Gazebo is provided by [ardupilot_gazebo](https://github.com/ArduPilot/ardupilot_gazebo).
 
