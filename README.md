@@ -1,4 +1,4 @@
-# Nautilus One AUV
+# Nautilus II AUV
 
 ![build_test workflow](https://github.com/Offset-official/auv_ros2/actions/workflows/build_test.yaml/badge.svg?branch=main)
 
@@ -7,12 +7,12 @@
 > Rulebook Edition :book:: [Rulebook 5.1.4](http://web.archive.org/web/20241231081446/https://sauvc.org/rulebook/)
 
 Contains collection of [ROS2](https://www.ros.org/) packages that provide AUV functionality targeted 
-towards the SAUVC 2025 competition for **AUV MARK I**.
+towards the SAUVC 2026 competition for **AUV MARK II**.
 
-AUV MARK I uses [ArduSub](http://www.ardusub.com/) as the flight controller and
+AUV MARK II uses [ArduSub](http://www.ardusub.com/) as the flight controller and
 [mavros](https://github.com/mavlink/mavros) as the GCS.
 
-![AUV MARK I Gazebo](images/nautilus_one.png)
+![AUV MARK II Gazebo](images/nautilus_one.png)
 
 AUV MARK I runs in [Gazebo Garden](https://gazebosim.org/docs/garden/getstarted/) using the standard buoyancy, 
 hydrodynamics and thruster
@@ -112,5 +112,3 @@ and add image and choose the correct topic.
 * [`auv_ml` Inference Node](auv_ml)
 * [`auv_interfaces` Interfaces](auv_interfaces)
 * [`auv_sensing` Camera Nodes](auv_sensing)
-
-We are trying X0
