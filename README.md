@@ -4,7 +4,7 @@
 
 > Status: created working gazebol models of the AUV and competition accurate pool world.
 
-> Rulebook Edition :book:: [Rulebook 5.1.4](http://web.archive.org/web/20241231081446/https://sauvc.org/rulebook/)
+> Rulebook Edition :book:: [Rulebook 6.1.0](https://sauvc.org/rulebook/)
 
 Contains collection of [ROS2](https://www.ros.org/) packages that provide AUV functionality targeted 
 towards the SAUVC 2026 competition for **AUV MARK II**.
