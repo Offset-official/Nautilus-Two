@@ -12,7 +12,7 @@ towards the SAUVC 2026 competition for **AUV MARK II**.
 AUV MARK II uses [ArduSub](http://www.ardusub.com/) as the flight controller and
 [mavros](https://github.com/mavlink/mavros) as the GCS.
 
-![AUV MARK II Gazebo](images/nautilus_one.png)
+![AUV MARK II Gazebo](nautilus2.png)
 
 AUV MARK II runs in [Gazebo Garden](https://gazebosim.org/docs/garden/getstarted/) using the standard buoyancy, 
 hydrodynamics and thruster
